@@ -1,0 +1,1 @@
+passsomething x = if x < 10 then "less10" else "more10"
